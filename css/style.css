@@ -13,7 +13,7 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
-    background: linear-gradient(to right,rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(/image/bg1.jpg);
+    background: linear-gradient(to right,rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url(Image/bg1.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -228,7 +228,7 @@
 }
 .banner{
     flex:1;
-    background: linear-gradient(to right,rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(/image/bg2.jpg);
+    background: linear-gradient(to right,rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(Image/bg2.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
